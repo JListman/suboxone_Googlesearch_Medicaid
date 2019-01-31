@@ -1,4 +1,4 @@
-# suboxone_search_Medicare
+# suboxone_search_Medicaid_Medicare
 Interactive Shiny App to visualize the relationship between state Medicaid policy &amp; Google searches for opiate addiction treatment medication, Suboxone, in 2015
 
 
